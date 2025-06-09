@@ -8,10 +8,10 @@ Before proceeding, ensure you have the following installed:
 
 ## Setup Instructions
 
-### 1. Create Pyspark Directory
+### 1. Create Pyspark Directory in local
 
 ### 2. Open Terminal and Run 
-- **Pyspark** -
+- **Pyspark** - [Browse here](https://hub.docker.com/r/jupyter/pyspark-notebook/tags)
 ```docker pull jupyter/pyspark-notebook:x86_64-ubuntu-22.04```
 
 ### 3. Open Docker Desktop 
